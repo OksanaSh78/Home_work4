@@ -1,0 +1,15 @@
+C:\Обучение\repo\HomeWork\home_work_4\A003\bin\Debug\net6.0\A003.exe
+C:\Обучение\repo\HomeWork\home_work_4\A003\bin\Debug\net6.0\A003.deps.json
+C:\Обучение\repo\HomeWork\home_work_4\A003\bin\Debug\net6.0\A003.runtimeconfig.json
+C:\Обучение\repo\HomeWork\home_work_4\A003\bin\Debug\net6.0\A003.dll
+C:\Обучение\repo\HomeWork\home_work_4\A003\bin\Debug\net6.0\A003.pdb
+C:\Обучение\repo\HomeWork\home_work_4\A003\obj\Debug\net6.0\A003.csproj.AssemblyReference.cache
+C:\Обучение\repo\HomeWork\home_work_4\A003\obj\Debug\net6.0\A003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Обучение\repo\HomeWork\home_work_4\A003\obj\Debug\net6.0\A003.AssemblyInfoInputs.cache
+C:\Обучение\repo\HomeWork\home_work_4\A003\obj\Debug\net6.0\A003.AssemblyInfo.cs
+C:\Обучение\repo\HomeWork\home_work_4\A003\obj\Debug\net6.0\A003.csproj.CoreCompileInputs.cache
+C:\Обучение\repo\HomeWork\home_work_4\A003\obj\Debug\net6.0\A003.dll
+C:\Обучение\repo\HomeWork\home_work_4\A003\obj\Debug\net6.0\refint\A003.dll
+C:\Обучение\repo\HomeWork\home_work_4\A003\obj\Debug\net6.0\A003.pdb
+C:\Обучение\repo\HomeWork\home_work_4\A003\obj\Debug\net6.0\A003.genruntimeconfig.cache
+C:\Обучение\repo\HomeWork\home_work_4\A003\obj\Debug\net6.0\ref\A003.dll
